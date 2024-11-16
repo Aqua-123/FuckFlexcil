@@ -1,3 +1,4 @@
 Flask
 PyPDF2
 APScheduler
+gunicorn
